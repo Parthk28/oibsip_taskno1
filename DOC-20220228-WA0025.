@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landing Page</title>
+    <link rel="stylesheet" href="pizza.css">
+</head>
+
+<body>
+
+    <nav>
+        <ul>
+            <li>Home</li>
+            <li>Order</li>
+            <li>Menu</li>
+            <li>Contact</li>
+        </ul>
+    </nav>
+
+    <div class="content">
+        <h1>World's Best Pizza Shop</h1>
+        <hr>
+        <p>Some of the best places in the world to have the best pizzas are Juliana's Pizza in New York, Joey's House of
+            Pizza (Tennessee),
+            and Duetto Pizza and Gelato (Florida) among others.</p>
+        <button>ORDER NOW</button>
+    </div>
+
+    <img src="pizza.gif" alt="">
+
+</body>
+
+</html>
